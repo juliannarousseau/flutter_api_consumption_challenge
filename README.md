@@ -1,9 +1,7 @@
-📱 **Flutter API Consumption Challenge**
-Public API — Posts Listing
+# 📱 **Flutter API Consumption Challenge**
+## Public API — Posts Listing
 
----
-
-## 📌 Context
+### 📌 Context
 
 This project simulates a real-world technical interview challenge inspired by common frontend/mobile exercises used by companies.
 
@@ -153,4 +151,3 @@ It is an evaluation and training exercise focused on:
 * architectural discipline,
 * communication,
 * real-world development practices.
-
