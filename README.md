@@ -8,6 +8,23 @@ This project simulates a real-world technical interview challenge inspired by co
 The goal is to evaluate how a candidate consumes an external API while applying **Clean Architecture**, proper separation of concerns, and clear business reasoning — not UI sophistication.
 
 ---
+## 🌐 API Reference
+
+This project consumes the public JSONPlaceholder API.
+
+**Base URL**
+```
+https://jsonplaceholder.typicode.com
+```
+
+**Endpoint used**
+```
+GET /posts
+```
+
+### API documentation: [JSON Placeholder](https://jsonplaceholder.typicode.com)
+
+---
 
 ## 🎯 Problem Statement
 
@@ -151,3 +168,4 @@ It is an evaluation and training exercise focused on:
 * architectural discipline,
 * communication,
 * real-world development practices.
+
